@@ -1,0 +1,15 @@
+{
+  "name": "netappointment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Timo Behrmann",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.18.0",
+    "wreck": "^10.0.0"
+  }
+}
